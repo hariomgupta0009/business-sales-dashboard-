@@ -29,10 +29,3 @@ An **interactive dashboard** that provides:
 - Monthly/quarterly sales trends
 - KPI indicators (sales growth, revenue share, etc.)
 
----
-
-## 🖼️ Dashboard Preview
-*(Add your screenshot here after creating a folder named `images/`)*
-
-```markdown
-![Dashboard Preview](images/dashboard_preview.png)
